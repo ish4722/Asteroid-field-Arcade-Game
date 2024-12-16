@@ -47,4 +47,4 @@ A retro-style arcade game where you navigate a spaceship through an asteroid fie
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/asteroid-field-game.git
+   git clone https://github.com/ish4722/asteroid-field-game.git
